@@ -363,7 +363,7 @@ ul.list_mixed li:after, ul.list_check li:after, ul.list_star li:after, ul.list_i
 	background: none
 }
 #Top_bar, #Header_creative {
-	background-image: url(../images/cleaner3-nav-bg.png);
+	background-image: url("../content/images/cleaner3-nav-bg.png");
 	background-repeat: repeat-y;
 	background-position: center top
 }
