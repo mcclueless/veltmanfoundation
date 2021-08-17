@@ -43,8 +43,4 @@ consentCta.addEventListener('click', () => {
 
 // COOKIE CONSENT END //
 
-// MODAL VIEW IMPRESSUM //
 
-$('#Impressum').on('shown.bs.modal', function () {
-  $('#myInput').trigger('focus')
-})
