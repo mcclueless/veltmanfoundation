@@ -5213,6 +5213,7 @@ html,body {
 
     #Top_bar.is-sticky #logo img.logo-main {
         display: none;
+        
     }
 
     #Top_bar.is-sticky #logo img.logo-sticky {
